@@ -47835,7 +47835,7 @@ B.kO.prototype={
 gaq:function(a){return this.a}}
 B.Tk.prototype={
 gvE:function(){var t=this,s=t.b,r=t.nt(s.fb(8)+1),q=s.fb(66),p=t.nt(s.fb(8)+1),o=t.nt(s.fb(8)+1),n=t.nt(s.fb(8)+1)
-return B.a0M(r,q+18,o,p,P.aD(255,s.fb(255),s.fb(255),s.fb(255)),n,new L.lq("lib/assets/stock_profile.png"),"http://clips.vorwaerts-gmbh.de/VfE_html5.mp4")},
+return B.a0M(r,q+18,o,p,P.aD(255,s.fb(255),s.fb(255),s.fb(255)),n,new L.lq("lib/assets/stock_profile.png"),"https://file-examples.com/wp-content/uploads/2017/04/file_example_MP4_480_1_5MG.mp4")},
 nt:function(a){return P.Sl(P.a9e(a,new B.Tl(this),u.e),0,null)}}
 B.Tl.prototype={
 $1:function(a){return C.c.aW("AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz1234567890",this.a.b.fb(62))},
